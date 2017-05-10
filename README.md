@@ -1,2 +1,3 @@
 # Algorithms
-dp, quick sort etc
+## dp, quick sort etc
+
