@@ -9,3 +9,10 @@
 ### huffmanencoding:
 霍夫曼编码压缩编码问题
 
+## training code
+c/c++, Makefile, python threading
+
+## gan
+### dcgan and wgan
+
+
